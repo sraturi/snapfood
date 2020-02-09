@@ -38,17 +38,17 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="27dp"
-        android:layout_height="26dp"
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="84dp"
-        android:layout_marginTop="256dp"
+        android:layout_marginTop="245dp"
         android:layout_marginEnd="300dp"
         android:layout_marginBottom="449dp"
-        app:srcCompat="@drawable/Number1" />
+        app:srcCompat="@drawable/number1" />
 
     <TextView
         android:id="@+id/textView5"
@@ -87,16 +87,16 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="297dp"
-        android:layout_height="68dp"
+        android:layout_width="255dp"
+        android:layout_height="110dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="114dp"
-        android:layout_marginTop="465dp"
-        android:layout_marginEnd="0dp"
-        android:layout_marginBottom="198dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="461dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="160dp"
         android:text="TextView"
         android:textColor="@android:color/black"
         android:textSize="16dp"
@@ -104,30 +104,30 @@
 
     <ImageView
         android:id="@+id/imageView9"
-        android:layout_width="24dp"
-        android:layout_height="31dp"
+        android:layout_width="36dp"
+        android:layout_height="40dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="84dp"
-        android:layout_marginTop="350dp"
-        android:layout_marginEnd="303dp"
-        android:layout_marginBottom="350dp"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="344dp"
+        android:layout_marginEnd="293dp"
+        android:layout_marginBottom="347dp"
         app:srcCompat="@drawable/number2" />
 
     <ImageView
         android:id="@+id/imageView10"
-        android:layout_width="wrap_content"
+        android:layout_width="34dp"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="84dp"
-        android:layout_marginTop="463dp"
-        android:layout_marginEnd="303dp"
-        android:layout_marginBottom="228dp"
+        android:layout_marginTop="464dp"
+        android:layout_marginEnd="292dp"
+        android:layout_marginBottom="227dp"
         app:srcCompat="@drawable/number3" />
 
     <ImageButton
